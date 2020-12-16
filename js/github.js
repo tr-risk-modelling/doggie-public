@@ -1,5 +1,5 @@
-const org = 'rmannibucau';
-const repo = 'demo';
+const org = 'tr-risk-modelling';
+const repo = 'doggie';
 const branch = 'gh-pages-private';
 
 function onSubmit(form) {
